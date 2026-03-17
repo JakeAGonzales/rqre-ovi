@@ -1,4 +1,4 @@
-"""Spatial Stag Hunt environment for LFA agents.
+"""Spatial Stag Hunt environment for Linear Function Approximation agents.
 
 9x9 grid. Players pick up resources (stag or hare) by walking over them,
 then choose to interact when adjacent. The payoff matrix resolves when
