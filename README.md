@@ -28,6 +28,6 @@ python -u rqre-ovi/staghunt/train.py --algorithm nqovi
 
 ## Note
 
-The `overcooked_jaxmarl` directory is external environment code adapted from the JaxMARL project and is not original to this repository:
+The `overcooked_jaxmarl` directory is external environment code adopted from the JaxMARL project and is not original to this repository:
 
 https://github.com/FLAIROx/JaxMARL
