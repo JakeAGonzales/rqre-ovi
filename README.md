@@ -7,7 +7,7 @@ Code implementation for the paper "Strategically Robust Multi-Agent Reinforcemen
 ```bash
 python -m venv venv
 source venv/bin/activate
-pip install -e .
+pip install -r requirements.txt
 ```
 
 ## Run Overcooked
