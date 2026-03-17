@@ -1,0 +1,26 @@
+*.egg-info/
+__pycache__/
+*.pyc
+venv/
+.DS_Store
+
+# Generated files and artifacts
+*.pkl
+*.npz
+*.png
+*.gif
+*.jpg
+*.jpeg
+*.svg
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+Thumbs.db/
